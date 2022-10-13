@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package accesoadatos;
+package AccesoADatos;
 
 import java.io.File;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
-public class AccesoaDatos {
+public class AccesoADatos {
 
     public static void main(String[] args) {
         String ruta = "C:\\Users\\reina.moser\\Desktop\\DAM\\ACCESO DATOS\\UD2\\RUTAprueba.txt";
